@@ -10,7 +10,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
+## Sobre o Projeto
 
 
 
