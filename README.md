@@ -12,7 +12,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
 
 A Caixa Smiles é uma experiência multissensorial que te faz viajar sem sair de casa. Sendo gatilhos mentais para melhor tomada de decisões de viagens futuras, minerando dados para que no futuro a pessoa vá visitar aquela região;
 
