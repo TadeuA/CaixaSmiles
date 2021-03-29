@@ -1,0 +1,76 @@
+
+
+  [
+      {
+          "tag":"Nordeste",
+          "lista_rotas":
+          [
+              {
+                  "id": 1,
+                  "rota": "Rota do Cangaço e Lampião",
+                  "capa": "https://github.com/matheusOliveira99/testeJson/blob/main/json/img/rota%20do%20canga%C3%A7o%20e%20lampiao.jpg?raw=true"
+              }
+              ,
+              {
+                  "id": 2,
+                  "rota": "Caminhos do São Francisco",
+                  "capa": "https://raw.githubusercontent.com/matheusOliveira99/testeJson/main/json/img/Caminhos%20do%20S%C3%A3o%20Francisco.jpg"
+              }
+              ,
+              {
+                  "id": 3,
+                  "rota": "Costa do Cacau",
+                  "capa": "https://github.com/matheusOliveira99/testeJson/blob/main/json/img/Costa%20do%20Cacau.jpg?raw=true"
+              }
+          ]
+      }
+      ,
+      {
+          "tag":"Centro-Oeste",
+          "lista_rotas":
+          [
+              {
+                  "id": 4,
+                  "rota": "Chapada dos Veadeiros",
+                  "capa": "https://github.com/matheusOliveira99/testeJson/blob/main/json/img/chapada-dos-veadeiros.jpg?raw=true"
+              }
+              ,
+              {
+                  "id": 5,
+                  "rota": "Vale da Serra da Mesa",
+                  "capa": "https://github.com/matheusOliveira99/testeJson/blob/main/json/img/serra-da-mesa.jpg?raw=true"
+              }
+              ,
+              {
+                  "id": 6,
+                  "rota": "Pegada do Cerrado",
+                  "capa": "https://github.com/matheusOliveira99/testeJson/blob/main/json/img/pegadas%20do%20cerrado.jpg?raw=true"
+              }
+          ]
+      }
+      ,
+      {
+          "tag":"Sul",
+          "lista_rotas":
+          [
+              {
+                  "id": 7,
+                  "rota": "Rota dos Vinhedos",
+                  "capa": "https://github.com/matheusOliveira99/testeJson/blob/main/json/Rota%20Dos%20vinhedos/vinicola.jpg?raw=true"
+              }
+              ,
+              {
+                  "id": 8,
+                  "rota": "Serra do Rio do Castro",
+                  "capa": "https://github.com/matheusOliveira99/testeJson/blob/main/json/img/Serra%20do%20Rio%20do%20Castro.jpg?raw=true"
+              }
+              ,
+              {
+                  "id": 9,
+                  "rota": "Rota Vale Europeu",
+                  "capa": "https://github.com/matheusOliveira99/testeJson/blob/main/json/img/rota%20do%20vale%20europeu.jpeg?raw=true"
+              }
+          ]
+      }
+  ]
+
